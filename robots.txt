@@ -1,0 +1,12 @@
+# robots.txt generated at http://tool.chinaz.com/robots/ 
+User-agent: *
+Disallow: 
+Disallow: /.well-known/
+Disallow: /.git/
+Disallow: /css/
+Disallow: /font/
+Disallow: /image/
+Disallow: /js/
+Disallow: /README.md
+Sitemap: https://www.qjzxmfs.com/sitemap.xml
+Sitemap: https://www.qjzxmfs.com/sitemap.html
